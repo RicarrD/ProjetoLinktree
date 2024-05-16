@@ -1,7 +1,7 @@
 <h1 align="center"> RicarrDevLinks </h1>
 
 <p align="center">
-Projeto inicial de LinkTree, promovido pela Rocketseat e modificado por mim. <br/>
+Projeto inicial de LinkTree, promovido pela Rocketseat e modificado por mim. https://ricarrd.github.io/ProjetoLinktree/<br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -31,11 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
